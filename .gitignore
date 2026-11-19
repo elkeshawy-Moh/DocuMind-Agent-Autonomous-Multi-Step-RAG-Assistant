@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+documind_chroma_db/
+.gradio/
